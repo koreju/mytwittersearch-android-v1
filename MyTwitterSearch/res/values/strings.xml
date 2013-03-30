@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Tweet Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="input_hint">Input search keywords here&#8230;</string>
+    <string name="button_content_desp">Search</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_about">About</string>
+    <string name="author_photo">Photo</string>
+    <string name="text">Content</string>
+    <string name="created_at">Now</string>
+    <string name="twitter_logo">Twitter Logo</string>
+    <string name="title_activity_tweet">Tweet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
